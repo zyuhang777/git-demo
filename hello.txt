@@ -9,7 +9,7 @@ hello git！
 hello git！6hot-fix11 test
 hello git！
 hello git！7
-hello git！
+hello git！master test second
 hello git！
 hello git！hello jinitaimei
 hello git！
