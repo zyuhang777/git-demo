@@ -1,6 +1,6 @@
-hello git！aaaaaaaa
-hello git！bbbbbbbb
-hello git！cccccccc
+hello git！aaa
+hello git！bbb
+hello git！ccc
 hello git！
 hello get!
 hello git！
