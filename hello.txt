@@ -6,9 +6,9 @@ hello get! hello niganma
 hello git！
 hello git！
 hello git！
-hello git！666666
+hello git！6
 hello git！
-hello git！777777
+hello git！7
 hello git！
 hello git！
 hello git！hello jinitaimei
