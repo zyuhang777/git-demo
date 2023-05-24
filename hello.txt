@@ -3,6 +3,6 @@ hello git！
 hello git！
 hello git！
 hello git！
-hello git！aaa
+hello git！
 hello git! hot-fix11
 hello git! 666
