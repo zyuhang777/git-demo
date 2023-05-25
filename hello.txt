@@ -22,3 +22,4 @@ huashuiProgramer 正在修改代码
 你们别乱删
 代码写的不咋地 请你们过目
 感谢采纳我的建议
+测试ssh免密登录huishuiProgramer
